@@ -4,7 +4,7 @@
     "esModuleInterop": true,
     "resolveJsonModule": true,
     "lib": ["dom", "es5", "es6"],
-    "module": "es2015",
+    "module": "commonJS",
     "jsx": "react",
     "moduleResolution": "node",
     "outDir": "./build",
