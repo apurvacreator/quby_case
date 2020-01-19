@@ -5,7 +5,9 @@ This is the solution to techical assignment for the Quby frontend case.
 ### Libraries used
 
 React
+
 Axios
+
 Styled components
 
 ### API
