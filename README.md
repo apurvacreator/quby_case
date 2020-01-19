@@ -15,7 +15,7 @@ Styled components
 To start the server:
 
 ```bash
-npm start
+npm run dev
 ```
 
 ### Client
